@@ -1,4 +1,4 @@
-- dashboard: Dashboard 1
+- dashboard: Dashboard_1
   title: dashboard_1
   layout: newspaper
   preferred_viewer: dashboards-next

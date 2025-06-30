@@ -1,4 +1,4 @@
-- dashboard: Order quantity
+- dashboard: Orderquantity
   title: order_quantity
   layout: newspaper
   preferred_viewer: dashboards-next

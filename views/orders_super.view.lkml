@@ -3,6 +3,7 @@ view: orders_super {
 
   dimension: Order_ID {
     label: "Order ID"
+    primary_key: yes
     type: number
     sql: ${TABLE}.Order_ID ;;
   }
